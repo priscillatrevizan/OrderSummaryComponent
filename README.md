@@ -5,7 +5,6 @@ Este projeto foi desenvolvido como parte do curso [Descodificadas](https://desco
 ## Índice
 
 - [Visão Geral](#visão-geral)
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
