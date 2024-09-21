@@ -183,6 +183,15 @@ body {
   cursor: pointer;
 }
 
+.button:hover {
+  background: hsl(245, 75%, 42%);
+}
+
+.link:hover {
+  color: hsl(245, 75%, 42%);
+  font-weight: var(--font-weight-title);
+}
+
 .link {
   margin-top: 30px;
   text-decoration: none;
